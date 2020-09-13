@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "aplicación que muestra por pantalla o crea en un archivo la tabla de multiplicar",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Beck",
+  "license": "ISC"
+}
